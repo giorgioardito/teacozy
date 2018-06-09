@@ -1,12 +1,12 @@
 * {
-
+  color: seashell;
+  opacity: 0.9;
 }
 body {
   opacity: 0.9;
   background-color: black;
   font-family: Helvetica;
   font-size: 22px;
-  color: seashell;
   text-align: center;
 }
 
@@ -46,7 +46,7 @@ nav span {
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding-top: 69px;
+    padding-top: 60px;
 }
 
 .main-image {
