@@ -1,6 +1,5 @@
 * {
   color: seashell;
-
 }
 body {
   opacity: 0.9;
@@ -8,11 +7,6 @@ body {
   font-family: Helvetica;
   font-size: 22px;
   text-align: center;
-}
-
-a {
-  color: seashell
-  text-decoration: underline;
 }
 
 header {
@@ -33,6 +27,7 @@ header {
 
 header a {
   color: seashell;
+  text-decoration: underline;
 }
 
 nav span {
